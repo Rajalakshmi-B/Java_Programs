@@ -1,0 +1,7 @@
+public class Bank123
+{
+public static void main(String[] args)
+{
+System.out.println("Hi this my first program in Java");
+}
+}
